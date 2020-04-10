@@ -3,7 +3,7 @@
 Knowledge Management - UE17CS342
 
 ###### Team Members with SRN:
-1. Sushanth
+1. Sushanth Jain PES1201700992
 2. Shreyas Sreenath Mavanoor PES1201700837
 3. Nithish
 4. Amrutanshu
