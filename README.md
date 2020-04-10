@@ -2,10 +2,11 @@
 
 Knowledge Management - UE17CS342
 
-Team Members with SRN:
-Sushanth
-Shreyas Sreenath Mavanoor PES1201700837
-Nithish
-Amrutanshu
+###### Team Members with SRN:
+1. Sushanth
+2. Shreyas Sreenath Mavanoor PES1201700837
+3. Nithish
+4. Amrutanshu
 
-# Overview
+## Overview
+edit the contents here
