@@ -1,7 +1,11 @@
-# KM_AnnualBudgetProject
+# Knowledge Management - Democratizing the Economic System of a Nation
 
-Team:
+Knowledge Management - UE17CS342
+
+Team Members with SRN:
 Sushanth
-Shreyas
+Shreyas Sreenath Mavanoor PES1201700837
 Nithish
 Amrutanshu
+
+# Overview
